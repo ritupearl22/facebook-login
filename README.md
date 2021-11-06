@@ -12,3 +12,4 @@ This is a facebook login page clone.
 
 ## Screenshot
 
+![alt text](https://github.com/ritupearl22/facebook-login/blob/main/screenshot.png?raw=true)
